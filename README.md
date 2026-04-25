@@ -8,18 +8,25 @@ Projeto interdisciplinar -  Disciplians:
   ---
 
 #Título: Meu título é sobre Arduino
-## Membros do grupo:
+# Membros do grupo:
 - Nome 1
 - Nome 2
 - Nome 3
 - Nome 4
 
-#Sobre o Projeto
+##Sobre o Projeto
 
-<ime src="figura1.jpg">
+<img src="doce.jpg">
 
-## O projeto tem como objetivo gerenciar estoque de alimentos e distribuição com sistema de kanban utilizando metodologia ágil .....
+# O projeto tem como objetivo gerenciar estoque de alimentos e distribuição com sistema de kanban utilizando metodologia ágil .....
 
+---
+
+#Repositório do Gerenciamento do Projeto com Ágil
+
+##Estmos utilizando o Trello como meio de gestão do nosso projeto utilizando SCRUM.
+
+- Link: colocar o link do Trello.
 
 
 
